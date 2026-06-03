@@ -4,7 +4,7 @@ A futuristic, highly animated education platform dashboard built with Next.js 14
 
 ## 🚀 Live Demo
 
-[Your Vercel link will go here after deployment]
+[https://learning-dashboard-6fd07e5c3-rakhi-s-projects1.vercel.app](https://learning-dashboard-6fd07e5c3-rakhi-s-projects1.vercel.app)
 
 ## 📋 Features
 
@@ -69,6 +69,7 @@ cp .env.example .env.local
 
 # Run the development server
 npm run dev
+
 
 
 
